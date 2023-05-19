@@ -1,0 +1,11 @@
+para poder conectarse a la base de datos desde C#, tenemos que crear un conexion con el nombre del servidor
+con el nombre de la base de datos y que tipo de seguridad va a tener el equipo que en mi caso use la de true que 
+basicamente es que la base de datos va a tener la misma seguridad que la computadora local. 
+
+luego de eso declaramos un obejto 
+
+despues podemos instanciar el obejto como la conexion a la base de dato
+
+luego hacemps un try cath para poder controlar las acciones, en mi caso hice obejtos publicos desde una clase para qu 
+se pudieran usar desde cualquier formulario y no tener que estar haciendo la conxion desde todos los formularios
+

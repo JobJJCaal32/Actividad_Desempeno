@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\bin\Debug\Actividad_Desempeño_1.2.exe.config
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\bin\Debug\Actividad_Desempeño_1.2.exe
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\bin\Debug\Actividad_Desempeño_1.2.pdb
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1.2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1._2.FrmConsulta.resources
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1._2.Inicio.resources
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1._2.Properties.Resources.resources
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1._2.FrmRegistro.resources
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1.2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1.2.exe
+C:\Users\User\Desktop\C#\Actividad_Desempeño_1.2\Actividad_Desempeño_1.2\obj\Debug\Actividad_Desempeño_1.2.pdb
