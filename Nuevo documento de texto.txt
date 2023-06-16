@@ -1,3 +1,5 @@
+esto se hace con el fin de poder aprender git
+
 para poder conectarse a la base de datos desde C#, tenemos que crear un conexion con el nombre del servidor
 con el nombre de la base de datos y que tipo de seguridad va a tener el equipo que en mi caso use la de true que 
 basicamente es que la base de datos va a tener la misma seguridad que la computadora local. 
